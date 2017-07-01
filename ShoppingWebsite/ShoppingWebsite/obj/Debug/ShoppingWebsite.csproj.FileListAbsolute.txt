@@ -1,0 +1,6 @@
+c:\users\dines\documents\visual studio 2013\Projects\ShoppingWebsite\ShoppingWebsite\bin\ShoppingWebsite.dll.config
+c:\users\dines\documents\visual studio 2013\Projects\ShoppingWebsite\ShoppingWebsite\bin\ShoppingWebsite.dll
+c:\users\dines\documents\visual studio 2013\Projects\ShoppingWebsite\ShoppingWebsite\bin\ShoppingWebsite.pdb
+c:\users\dines\documents\visual studio 2013\Projects\ShoppingWebsite\ShoppingWebsite\obj\Debug\ShoppingWebsite.csprojResolveAssemblyReference.cache
+c:\users\dines\documents\visual studio 2013\Projects\ShoppingWebsite\ShoppingWebsite\obj\Debug\ShoppingWebsite.dll
+c:\users\dines\documents\visual studio 2013\Projects\ShoppingWebsite\ShoppingWebsite\obj\Debug\ShoppingWebsite.pdb
